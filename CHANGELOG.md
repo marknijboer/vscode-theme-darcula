@@ -1,3 +1,6 @@
+## v1.2.2
+- Changed colors to better match the ones used in IntelliJ products
+
 ## v1.2.1
 - Add php variable rule (#15) 
 - Add dart class rule (#20)

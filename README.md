@@ -1,7 +1,4 @@
-# Darcula
-
-[![Version](https://vsmarketplacebadge.apphb.com/version/rokoroku.vscode-theme-darcula.svg)](https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/rokoroku.vscode-theme-darcula.svg)](https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula)
+# Darcula Idea
 
 A theme extension for [Visual Studio Code](https://code.visualstudio.com) based on **Darcula** theme from [Jetbrains](https://www.jetbrains.com) IDEs.
 
@@ -21,7 +18,7 @@ See [CHANGELOG.md](./CHANGELOG.md)
 
 ## Setting
 
-- When installation completes, select **Darcula** as your color theme (Preferences → Workbench: Color Theme → **Darcula**)
+- When installation completes, select **Darcula Idea** as your color theme (Preferences → Workbench: Color Theme → **Darcula Idea**)
 
 ## Customizing
 
