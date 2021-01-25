@@ -121,6 +121,13 @@
 			}
 		},
 		{
+			"name": "Perl specific",
+			"scope": ["variable.other.readwrite.perl"],
+			"settings": {
+			  "foreground": "#9876AA"
+			}
+		  },
+		{
 			"scope": "quote.module",
 			"settings": {
 				"foreground": "#6A8759"
